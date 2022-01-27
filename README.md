@@ -9,10 +9,6 @@
 
 # Unity K-Nearest Neighbours library with KDTree
 
-Simple K-Nearest Neighbour library for Unity, using the 'Dots' technology stack (the Burst compiler and Unity's job system). It uses K-D trees to speed up queries.
-
-It is totally free from managed allocations and can run multi-threaded. The Burst compiler heavily vectorizes the searching code.
-
 Updated Version of the:
 
  `ArthurBrussee` : <https://github.com/ArthurBrussee/KNN>
