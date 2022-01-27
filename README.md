@@ -12,10 +12,14 @@ Simple K-Nearest Neighbour library for Unity, using the 'Dots' technology stack 
 
 It is totally free from managed allocations and can run multi-threaded. The Burst compiler heavily vectorizes the searching code.
 
-Just Updated Version of the:
+Updated Version of the:
+```
  https://github.com/ArthurBrussee/KNN
+```
  and
+```
  https://github.com/viliwonka/KDTree
+```
 
 
 How to Import:
@@ -26,7 +30,9 @@ How to Import:
 
 
 How to Use:
+```
  https://github.com/ArthurBrussee/KNN
+```
 
 Demo Unity Package
 
