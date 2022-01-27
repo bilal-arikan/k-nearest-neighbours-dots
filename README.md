@@ -1,8 +1,9 @@
 
-| Range Demo (10.000, 1.5)                         |
+| Range Demo (10.000, 1.5)            |
 | ----------------------------------- |
 | ![Alt text](/SS~/SS1.gif "Gif1") |
-| K-Nearest Demo (10.000, 30)                         |
+
+| K-Nearest Demo (10.000, 30)         |
 | ----------------------------------- |
 | ![Alt text](/SS~/SS2.gif "Gif1") |
 
@@ -13,9 +14,13 @@ Simple K-Nearest Neighbour library for Unity, using the 'Dots' technology stack 
 It is totally free from managed allocations and can run multi-threaded. The Burst compiler heavily vectorizes the searching code.
 
 Updated Version of the:
+
  `ArthurBrussee` : <https://github.com/ArthurBrussee/KNN>
+
  and
+
  `viliwonka` : <https://github.com/viliwonka/KDTree>
+
 
 
 How to Import:
@@ -26,7 +31,9 @@ How to Import:
 
 
 How to Use:
+
  <https://github.com/ArthurBrussee/KNN>
+
 
 Demo Unity Package
 
